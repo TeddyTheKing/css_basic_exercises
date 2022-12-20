@@ -1,1 +1,1 @@
-# css_basic_exercises
+Training using CSS together with HTML with TOP exercises.
