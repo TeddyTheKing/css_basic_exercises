@@ -1,1 +1,1 @@
-Training using CSS together with HTML with TOP exercises.
+Training CSS together with HTML using TOP exercises.
