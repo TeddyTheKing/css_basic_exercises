@@ -1,7 +1,32 @@
-div {
+/* Exercise 01 */
+#a {
     background-color: red;
     color: white;
     font-size: 32px;
     text-align: center;
+    font-weight: bold;
+}
+#aa {
+    background-color: green;
+    color: white;
+    font-size: 18px; 
+ }
+/* Exercise 02 */
+ .odd {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+ }
+
+#nd {
+   color: blue;
+   font-size: 36px; 
+}
+
+.rd-th {
+    font-size: 24px;
+}
+
+#th {
+    background-color: lightgreen;
     font-weight: bold;
 }
