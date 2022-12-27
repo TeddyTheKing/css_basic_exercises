@@ -30,3 +30,16 @@
     background-color: lightgreen;
     font-weight: bold;
 }
+/* Exercise 03 */
+.cm
+.ncm {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.cm {
+    background-color: black;
+    color: white;
+}
+.ncm {
+    background-color: yellow;
+}
