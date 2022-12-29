@@ -1,4 +1,4 @@
-/* Exercise 01 */
+/* Exercise 01 - CSS Methods */
 #a {
     background-color: red;
     color: white;
@@ -11,7 +11,7 @@
     color: white;
     font-size: 18px; 
  }
-/* Exercise 02 */
+/* Exercise 02 - Class & ID Selectors */
  .odd {
     background-color: pink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
@@ -30,7 +30,7 @@
     background-color: lightgreen;
     font-weight: bold;
 }
-/* Exercise 03 */
+/* Exercise 03 - Grouping Selector */
 .cm
 .ncm {
     font-size: 28px;
@@ -43,7 +43,7 @@
 .ncm {
     background-color: yellow;
 }
-/* Exercise 04 */
+/* Exercise 04 - Chaining Selector */
 .avatar.proportioned {
     width: 300px;
     height: auto;
@@ -51,4 +51,11 @@
 .avatar.distorted {
     width: 200px;
     height: 400px;
+}
+/* Exercise 05 - Descendant Combinator */
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
 }
